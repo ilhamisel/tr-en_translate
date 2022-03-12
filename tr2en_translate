@@ -1,4 +1,5 @@
 #require pytorch, fairseq
+#Please contact for model and data file
 from fairseq.models.transformer import TransformerModel
 tr2en = TransformerModel.from_pretrained( '/path/to/checkpoints',
                                           checkpoint_file='tr-en_model.pt',
