@@ -1,0 +1,41 @@
+Academic Corpus Test Set
+Src: Öğretmenlerden elde edilen veriler, programlanabilir robotun işbirliği, eğlenerek öğrenme, yaparak yaşayarak öğrenme ve somutlaştırmaya yardımcı olarak öğrenme sürecine katkı sağladığını göstermiştir.
+Ref: The data obtained from teachers showed that the programmable robot contributes to the learning process by helping to collaborate, learn with fun, learn by living and embody.
+Our Model: The data obtained from teachers showed that the programmable robot contributes to the learning process by helping to collaborate, learn with fun, learn by living and embody
+
+Src: Çalışmada durum çalışması desenlerinden bütüncül çoklu durum deseni kullanılmıştır.
+Ref: In the study, a holistic multiple design was used from the case study design.
+Our Model: One of the case study designs, a multiple holistic design was used in the study.
+
+Src:Ayak bileği dorsifleksiyon aktif eklem hareket açıklığı mobil gonyometre ile başlangıçta, uygulama sonrasında, 10. dakika ve 20. dakikada kaydedildi.
+Ref: Active ankle dorsiflexion ROM was recorded at before, after application, 10 minutes and 20 minutes after application, with the mobile goniometer.
+Our Model: Active ankle dorsiflexion ROM was recorded at the beginning, after application, 10 minutes and 20 minutes after application, with the mobile goniometer.
+
+
+WMT-17
+Src: Son karayolu tabliyesinin de yerleştirilmesi ve genişleyen Kuzey Kulesi seviyesine bağlanması sonrasında kuzey -veya kara- tarafındaki boşluğu kapatmamız gerekiyordu.
+Ref: After installing the last road deck section and connecting it to the expanding North Tower road deck, we then had to close the remaining gap on the north - or landward - side.
+Our Model: We had to cover the remaining gap on the north - or landward - side after installing the last road deck section and connecting it to the expanding North Tower road deck.
+
+Src: Kısaca açıklamak gerekirse, oyuncular akıllı telefonlarını alarak, GPS ile takip edilen şekilde Pokémon aramaya çıkıyor ve bulduklarının 'fotoğrafını çekebiliyor' (telefonda ekran görüntüsü alarak) veya bunları 'yakalayabiliyor'
+Ref: In a nutshell, players on smartphones go out looking for Pokémons, which are tracked with a GPS and, once found, can be 'photographed' (via a screenshot on your phone) or 'captured'.
+Our Model: In short, players use their smartphones monitored by GPS to seek for Pokémons, and they can 'photograph' (take a screenshot on their phone) or 'capture' the ones they find.
+
+Src: Kısa süre önce San Francisco'ya taşınmış olan 28 yaşındaki aşçı, bu hafta içinde yerel bir alışveriş merkezinin merdiven boşluğunda ölü bulundu.
+Ref: A 28-year-old chef who had recently moved to San Francisco was found dead in the stairwell of a local mall this week.
+Our Model: This week, a 28-year-old chef who had recently moved to San Francisco was discovered dead in a local mall's stairwell.
+
+
+WMT-18
+Src: Asteroidin vereceği zarar sadece asteroidin kimyasal bileşimine değil çarpacağı bölgenin kayaç yapısına da bağlı.
+Ref: The damage caused by an asteroid depends not only on the asteroid’s chemical compound, but also on the rock formations at the point of impact.
+Our Model: The damage caused by an asteroid depends not only on the asteroid’s chemical compound, but also on the rock structure at the point of impact.
+
+Src: Tavsiye bildirisi ayrıca Missouri Başsavcılık Dairesi'nin, eyalette siyahi sürücülerin beyazlara göre yüzde 75 oranında daha fazla durdurulma ihtimali olduğunu gösteren yeni bir rapora dikkat çekiyor.
+Ref: The advisory also points to a recent report by the Missouri Attorney General's Office showing that black drivers in the state were 75 percent more likely to be pulled over than whites.
+Our Model:The advisory also cites a recent analysis from the Missouri Attorney General's Office, which showed that black drivers in Missouri were 75 percent more likely than white drivers to be stopped over.
+
+Src: Miller gerçekte haklı fakat kendisinin de söylediği gibi, bu gerçekten tarihle ilgili değil.
+Ref: Miller is factually correct, but as he put it himself, this is not really about history.
+Our Model: Miller is right in his facts, but as he points out, this isn't really about history.
+
